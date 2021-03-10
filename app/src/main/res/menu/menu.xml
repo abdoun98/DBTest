@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/add_ic"
+        android:icon="@drawable/add_animal"
+        android:title="Ajouter"/>
+
+    <item
+        android:id="@+id/camera_ic"
+        android:icon="@drawable/camera_check"
+        android:title="Caméra"/>
+
+    <item
+        android:id="@+id/data_ic"
+        android:icon="@drawable/database_reader"
+        android:title="Mes données"/>
+
+</menu>
